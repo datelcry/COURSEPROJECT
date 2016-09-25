@@ -11,5 +11,6 @@ namespace MVCsite
             ConfigureAuth(app);
         }
     }
-	//privete
+	//poka
+
 }

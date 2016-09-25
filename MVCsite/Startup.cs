@@ -11,4 +11,5 @@ namespace MVCsite
             ConfigureAuth(app);
         }
     }
+	//privete
 }

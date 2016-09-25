@@ -1,0 +1,194 @@
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\ApplicationInsights.config
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\csc.exe
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\csc.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\csc.rsp
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\csi.exe
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\csi.rsp
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\System.AppContext.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\vbc.exe
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\vbc.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\vbc.rsp
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\MVCsite.dll.config
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\MVCsite.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\MVCsite.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Antlr3.Runtime.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\EntityFramework.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.Web.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Newtonsoft.Json.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Owin.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Helpers.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Mvc.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Optimization.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Razor.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.WebPages.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\WebGrease.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Antlr3.Runtime.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.Web.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Newtonsoft.Json.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Helpers.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Mvc.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Optimization.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.Razor.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.WebPages.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\EntityFramework.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\obj\Debug\MVCsite.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\obj\Debug\MVCsite.dll
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\obj\Debug\MVCsite.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\MVCsite\MVCsite\bin\Duke.Owin.VkontakteMiddleware.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\ApplicationInsights.config
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\csc.exe
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\csc.exe.config
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\csc.rsp
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\csi.exe
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\csi.rsp
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\System.AppContext.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\System.Collections.Immutable.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\System.IO.FileSystem.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\vbc.exe
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\vbc.exe.config
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\vbc.rsp
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\VBCSCompiler.exe
+C:\ProjectMVC\MVCsite\MVCsite\bin\roslyn\VBCSCompiler.exe.config
+C:\ProjectMVC\MVCsite\MVCsite\bin\MVCsite.dll.config
+C:\ProjectMVC\MVCsite\MVCsite\bin\MVCsite.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\MVCsite.pdb
+C:\ProjectMVC\MVCsite\MVCsite\bin\Antlr3.Runtime.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Duke.Owin.VkontakteMiddleware.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\EntityFramework.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\EntityFramework.SqlServer.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.Web.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.WindowsServer.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.ApplicationInsights.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Google.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Web.Infrastructure.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Newtonsoft.Json.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Owin.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Helpers.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Mvc.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Optimization.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Razor.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.WebPages.Deployment.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.WebPages.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.WebPages.Razor.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\WebGrease.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Antlr3.Runtime.pdb
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.Web.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AI.WindowsServer.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.ApplicationInsights.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Newtonsoft.Json.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Helpers.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Mvc.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Optimization.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.Razor.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.WebPages.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.WebPages.Deployment.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\System.Web.WebPages.Razor.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\EntityFramework.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\EntityFramework.SqlServer.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Google.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.csprojResolveAssemblyReference.cache
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.dll
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.pdb

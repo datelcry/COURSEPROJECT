@@ -374,7 +374,7 @@ namespace MVCsite.Controllers
                     result = await UserManager.AddLoginAsync(user.Id, info.Login);
                     if (result.Succeeded)
                     {
-                        await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
+                        await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: true);
                         return RedirectToLocal(returnUrl);
                     }
                 }

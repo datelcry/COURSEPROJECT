@@ -189,6 +189,10 @@ C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.OAuth.xml
 C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Google.xml
 C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.Twitter.xml
 C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.csprojResolveAssemblyReference.cache
 C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.dll
 C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.pdb
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.Resources.Resource.resources
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.Resources.Resource.en.resources
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.csproj.GenerateResource.Cache
+C:\ProjectMVC\MVCsite\MVCsite\bin\en\MVCsite.resources.dll
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\en\MVCsite.resources.dll

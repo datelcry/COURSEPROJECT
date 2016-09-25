@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CourseProject.Filters;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -7,9 +8,10 @@ using System.Web.Mvc;
 namespace MVCsite.Controllers
 {
     [RequireHttps]
-    public class HomeController : Controller
+    [Culture]
+    public class HomeController : DefaultController
     {
-        [Authorize]
+        
         public ActionResult Index()
         {
             return View();

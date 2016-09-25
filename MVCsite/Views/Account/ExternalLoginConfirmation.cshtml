@@ -26,13 +26,6 @@
         </div>
     
     </div>
-    <div class="form-group">
-        @Html.LabelFor(d => d.Email, new { @class = "col-md-2 control-label" })
-        <div class="col-md-10">
-            @Html.TextBoxFor(d => d.Email, new { @class = "form-control" })
-            @Html.ValidationMessageFor(d => d.Email, "", new { @class = "text-danger" });
-        </div>
-    </div>
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
                 <input type="submit" class="btn btn-default" value="Register" />

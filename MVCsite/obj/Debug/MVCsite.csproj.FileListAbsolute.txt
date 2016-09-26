@@ -196,3 +196,8 @@ C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.Resources.Resource.en.resources
 C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.csproj.GenerateResource.Cache
 C:\ProjectMVC\MVCsite\MVCsite\bin\en\MVCsite.resources.dll
 C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\en\MVCsite.resources.dll
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.csprojResolveAssemblyReference.cache
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Azure.Documents.Client.dll
+C:\ProjectMVC\MVCsite\MVCsite\bin\Microsoft.Azure.Documents.Client.xml
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.Migrations.InitialCreate.resources
+C:\ProjectMVC\MVCsite\MVCsite\obj\Debug\MVCsite.Migrations.DataMigration.resources
